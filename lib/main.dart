@@ -7,7 +7,7 @@ import 'package:get/get_navigation/src/root/get_material_app.dart';
 
 
 
-import 'package:gro1/view/Branch_PAGE.dart';
+import 'package:gro1/view_admin/Branch_PAGE.dart';
 
 
 import 'firebase_options.dart';
